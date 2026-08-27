@@ -18,6 +18,17 @@ Android Version : 11
 
 iOS Version: 12 and 14
 
+## Compatibility
+
+This fork targets Flutter 3.47.1.
+
+* AGP: 9.0.1
+* Gradle: 9.1.0
+* Kotlin: 2.1.0
+* Java: 17
+* Android compileSdk / targetSdk: 35
+* iOS deployment target: 12.0
+
 ## Comparison
 
 Comparison to esp_provisioning:
